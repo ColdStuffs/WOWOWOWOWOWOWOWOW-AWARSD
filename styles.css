@@ -1,0 +1,53 @@
+body {
+
+    background-image: url('https://media.giphy.com/media/jaOXKCxtBPLieRLI0c/giphy.gif');
+    background-size: cover;
+}
+
+h1 {
+   font-family: 'Archivo Black', sans-serif;
+    text-align: center;
+    color: #ffa600;
+}
+
+.Award_1 {
+    font-size: 55px;
+    text-align: center;
+    font-family: 'Lakki Reddy', cursive;
+    color: #eb6123;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 25px;
+}
+
+.Award_2 {
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: #eb6123;
+}
+
+.Award_3 {
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    color: #d2691e;
+}
+
+.Award_4 {
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    Color: #fdb147;
+}
+
+.invisable {
+    color: white;
+    font-size: 5px;
+    text-align: center;
+}
